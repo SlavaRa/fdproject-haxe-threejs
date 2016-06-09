@@ -1,0 +1,12 @@
+package $(PackageName);
+
+/**
+$(CBI)* @author $(DefaultUser)
+$(CBI)*/
+class Main {
+	
+	static function main() $(CSLB){
+		// entry point	
+	}
+	
+}
