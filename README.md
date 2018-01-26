@@ -1,4 +1,4 @@
-Haxe [ThreeJS](http://lib.haxe.org/p/threejs/) Application Project Template for [FlashDevelop](http://www.flashdevelop.org)/[HaxeDevelop](http://www.haxedevelop.org)
+Haxe [ThreeJS](http://lib.haxe.org/p/threejs/) Application Project Template for [FlashDevelop](http://flashdevelop.org)/[HaxeDevelop](https://haxedevelop.org)
 ========================
 
 ### Installation
